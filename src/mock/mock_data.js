@@ -352,8 +352,15 @@ export const mockData = {
           "id": "site-1767206938960",
           "name": "libreTV",
           "url": "https://tv.123408.xyz/",
-          "description": "密码：tv123408",
+          "description": "tv123408",
           "icon": "https://www.faviconextractor.com/favicon/tv.123408.xyz"
+        },
+        {
+          "id": "site-1767207913196",
+          "name": "懒猫解析",
+          "url": "https://lanmao.maozi.io",
+          "description": "1234",
+          "icon": "https://lanmao.maozi.io/img/favicon.ico"
         }
       ]
     },
