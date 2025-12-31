@@ -518,7 +518,7 @@ export const mockData = {
           "id": "site-1767165622367",
           "name": "宝可梦",
           "url": "https://web1.go52pokemon.com",
-          "description": "千夜佬的每月兑换码，每月60G，未用完不结转\n\n作者：\nhttps://linux.do/u/jkun/summary",
+          "description": "千夜佬的每月兑换码，每月60G，未用完流量续订不结转\n2026.01兑换码：宝可梦yyds\n作者：\nhttps://linux.do/u/jkun/summary",
           "icon": "https://www.faviconextractor.com/favicon/web1.go52pokemon.com"
         },
         {
@@ -541,6 +541,13 @@ export const mockData = {
           "url": "https://psub.zq1sweet1.workers.dev/",
           "description": "订阅转换",
           "icon": "https://mao-nav-2e8.pages.dev/assets/favicon-CQPVhNOB.ico"
+        },
+        {
+          "id": "site-1767204135826",
+          "name": "风萧萧",
+          "url": "https://chanel.weyolo.com/",
+          "description": "注册排队中\n\n作者：\nhttps://linux.do/u/hubentuan/summary",
+          "icon": "https://www.faviconextractor.com/favicon/chanel.weyolo.com"
         }
       ]
     },
