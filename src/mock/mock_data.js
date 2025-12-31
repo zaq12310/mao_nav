@@ -432,6 +432,13 @@ export const mockData = {
           "url": "https://archiveofourown.org/",
           "description": "同人/原创创作",
           "icon": "https://www.faviconextractor.com/favicon/archiveofourown.org"
+        },
+        {
+          "id": "site-1767212321992",
+          "name": "G社漫画",
+          "url": "https://m.g-mh.org",
+          "description": "韩漫，国漫，加载较慢",
+          "icon": "https://www.faviconextractor.com/favicon/m.g-mh.org"
         }
       ]
     },
