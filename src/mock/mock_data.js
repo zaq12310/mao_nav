@@ -399,13 +399,6 @@ export const mockData = {
       "order": 7,
       "sites": [
         {
-          "id": "site-1767207609379",
-          "name": "cxc",
-          "url": "https://cxc.today/zh",
-          "description": "漫画、小说，插图",
-          "icon": "https://www.faviconextractor.com/favicon/cxc.today"
-        },
-        {
           "id": "site-1767211086185",
           "name": "🐸🐸🐸",
           "url": "https://www.manwaku.cc/",
@@ -413,11 +406,25 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.manwaku.cc"
         },
         {
+          "id": "site-1767207609379",
+          "name": "cxc",
+          "url": "https://cxc.today/zh",
+          "description": "漫画、小说，插图",
+          "icon": "https://www.faviconextractor.com/favicon/cxc.today"
+        },
+        {
           "id": "site-1767211373305",
           "name": "52书库",
           "url": "https://www.52shuku.net/",
           "description": "几乎啥书都有",
           "icon": "https://www.faviconextractor.com/favicon/www.52shuku.net"
+        },
+        {
+          "id": "site-1767211799834",
+          "name": "AO3",
+          "url": "https://archiveofourown.org/",
+          "description": "同人/原创创作",
+          "icon": "https://www.faviconextractor.com/favicon/archiveofourown.org"
         }
       ]
     },
