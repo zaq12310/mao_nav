@@ -518,7 +518,7 @@ export const mockData = {
           "id": "site-1767165622367",
           "name": "宝可梦",
           "url": "https://web1.go52pokemon.com",
-          "description": "千夜佬的每月兑换码，每月60G，未用完流量续订不结转\n2026.01兑换码：宝可梦yyds\n作者：\nhttps://linux.do/u/jkun/summary",
+          "description": "每月60G流量未用完续订不结转\n2026.01兑换码：宝可梦yyds\n作者：\nhttps://linux.do/u/jkun/summary",
           "icon": "https://www.faviconextractor.com/favicon/web1.go52pokemon.com"
         },
         {
