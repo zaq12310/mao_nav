@@ -368,6 +368,13 @@ export const mockData = {
           "url": "https://www.gying.net/user/login",
           "description": "没账号",
           "icon": "https://www.faviconextractor.com/favicon/www.gying.net"
+        },
+        {
+          "id": "site-1767211015294",
+          "name": "爱壹帆",
+          "url": "https://m.yfsp.tv/",
+          "description": "较流畅，外网",
+          "icon": "https://www.faviconextractor.com/favicon/m.yfsp.tv"
         }
       ]
     },
@@ -383,6 +390,13 @@ export const mockData = {
           "url": "https://cxc.today/zh",
           "description": "漫画、小说，插图",
           "icon": "https://www.faviconextractor.com/favicon/cxc.today"
+        },
+        {
+          "id": "site-1767211086185",
+          "name": "🐸🐸🐸",
+          "url": "https://www.manwaku.cc/",
+          "description": "漫画永久站",
+          "icon": "https://www.faviconextractor.com/favicon/www.manwaku.cc"
         }
       ]
     },
