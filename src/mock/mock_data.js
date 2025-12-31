@@ -193,18 +193,18 @@ export const mockData = {
       "order": 4,
       "sites": [
         {
-          "id": "stackoverflow",
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "程序员问答社区",
-          "icon": "/sitelogo/stackoverflow.com.ico"
-        },
-        {
           "id": "linuxdo",
           "name": "Linux.do",
           "url": "https://linux.do",
           "description": "Linux与开源技术社区",
           "icon": "/sitelogo/linux.do.ico"
+        },
+        {
+          "id": "stackoverflow",
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com",
+          "description": "程序员问答社区",
+          "icon": "/sitelogo/stackoverflow.com.ico"
         },
         {
           "id": "nodeseek",
@@ -404,6 +404,13 @@ export const mockData = {
           "url": "https://www.manwaku.cc/",
           "description": "漫画永久站",
           "icon": "https://www.faviconextractor.com/favicon/www.manwaku.cc"
+        },
+        {
+          "id": "site-1767211373305",
+          "name": "52书库",
+          "url": "https://www.52shuku.net/",
+          "description": "几乎啥书都有",
+          "icon": "https://www.faviconextractor.com/favicon/www.52shuku.net"
         }
       ]
     },
