@@ -442,7 +442,15 @@ export const mockData = {
       "icon": "👥",
       "name": "公益站",
       "order": 11,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1767168991644",
+          "name": "elysliver公益站",
+          "url": "https://elysiver.h-e.top/",
+          "description": "无法添加到插件中，直接用这个",
+          "icon": "https://lsky.useforall.com/pixel/2025/12/22/6949494a9f7d9.png"
+        }
+      ]
     },
     {
       "id": "category-1767165203298",
