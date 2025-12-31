@@ -447,7 +447,7 @@ export const mockData = {
           "id": "site-1767168991644",
           "name": "elysliver公益站",
           "url": "https://elysiver.h-e.top/",
-          "description": "无法添加到插件中，直接用这个",
+          "description": "无法添加到插件中，插件无法正确读取数据，直接用这个",
           "icon": "https://lsky.useforall.com/pixel/2025/12/22/6949494a9f7d9.png"
         },
         {
@@ -462,7 +462,49 @@ export const mockData = {
           "name": "公益站总结贴",
           "url": "https://linux.do/t/topic/1207142",
           "description": "作者：\nhttps://linux.do/u/lsen",
-          "icon": ""
+          "icon": "https://linux.do/user_avatar/linux.do/lsen/288/536884_2.png"
+        },
+        {
+          "id": "site-1767202937391",
+          "name": "Wind Hub",
+          "url": "https://api.224442.xyz/login",
+          "description": "无法注册登录，linuxdo等级不够",
+          "icon": "https://www.faviconextractor.com/favicon/api.224442.xyz"
+        },
+        {
+          "id": "site-1767203009457",
+          "name": "我爱996",
+          "url": "https://529961.com/login",
+          "description": "无法注册",
+          "icon": "https://www.faviconextractor.com/favicon/529961.com"
+        },
+        {
+          "id": "site-1767203235199",
+          "name": "薄荷api",
+          "url": "https://x666.me/login",
+          "description": "无法注册？似乎注册过？",
+          "icon": "https://i.111666.best/image/UQ3YrIrF59JZfaEFGJabrr.png"
+        },
+        {
+          "id": "site-1767203393814",
+          "name": "B4U",
+          "url": "https://b4u.qzz.io/register",
+          "description": "无法注册",
+          "icon": "https://www.faviconextractor.com/favicon/b4u.qzz.io"
+        },
+        {
+          "id": "site-1767203536616",
+          "name": "anyrouter",
+          "url": "https://anyrouter.top",
+          "description": "正常登录，加入插件但无法正常读取",
+          "icon": "https://www.faviconextractor.com/favicon/anyrouter.top"
+        },
+        {
+          "id": "site-1767203751080",
+          "name": "cone",
+          "url": "https://zone.veloera.org",
+          "description": "正常登录，加入插件无法正确读取",
+          "icon": "https://www.faviconextractor.com/favicon/zone.veloera.org"
         }
       ]
     },
@@ -495,7 +537,7 @@ export const mockData = {
         },
         {
           "id": "site-1767167582255",
-          "name": "4k影视",
+          "name": "订阅转换",
           "url": "https://psub.zq1sweet1.workers.dev/",
           "description": "订阅转换",
           "icon": "https://mao-nav-2e8.pages.dev/assets/favicon-CQPVhNOB.ico"
