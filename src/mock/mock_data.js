@@ -438,10 +438,17 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1767168016958",
+      "icon": "👥",
+      "name": "公益站",
+      "order": 11,
+      "sites": []
+    },
+    {
       "id": "category-1767165203298",
       "icon": "🌐",
       "name": "网络环境",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "site-1767165622367",
@@ -477,7 +484,7 @@ export const mockData = {
       "id": "category-1767164904625",
       "icon": "📁",
       "name": "杂物",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "site-1767166767787",
