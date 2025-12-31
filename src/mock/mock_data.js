@@ -732,6 +732,13 @@ export const mockData = {
           "url": "https://outlook.live.com",
           "description": "邮箱",
           "icon": "https://www.faviconextractor.com/favicon/outlook.live.com"
+        },
+        {
+          "id": "site-1767212170450",
+          "name": "IMEI查询",
+          "url": "https://www.imei.info/zh/",
+          "description": "手机IMEI查询",
+          "icon": "https://www.faviconextractor.com/favicon/www.imei.info"
         }
       ]
     }
