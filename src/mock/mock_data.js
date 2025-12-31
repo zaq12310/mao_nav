@@ -449,6 +449,20 @@ export const mockData = {
           "url": "https://elysiver.h-e.top/",
           "description": "无法添加到插件中，直接用这个",
           "icon": "https://lsky.useforall.com/pixel/2025/12/22/6949494a9f7d9.png"
+        },
+        {
+          "id": "site-1767169287107",
+          "name": "黑与白公益站",
+          "url": "https://ai.hybgzs.com/",
+          "description": "bug中，暂时还在修复，未加入插件管理\n\n作者：\nhttps://linux.do/u/ouyangqiqi",
+          "icon": ""
+        },
+        {
+          "id": "site-1767170197639",
+          "name": "公益站总结贴",
+          "url": "https://linux.do/t/topic/1207142",
+          "description": "作者：\nhttps://linux.do/u/lsen",
+          "icon": ""
         }
       ]
     },
