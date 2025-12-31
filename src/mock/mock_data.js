@@ -424,17 +424,17 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1767164904625",
-      "icon": "📁",
-      "name": "杂物",
+      "id": "category-1767165203298",
+      "icon": "🌐",
+      "name": "网络环境",
       "order": 11,
       "sites": []
     },
     {
-      "id": "category-1767165203298",
-      "icon": "🌐",
-      "name": "网络环境",
-      "order": 0,
+      "id": "category-1767164904625",
+      "icon": "📁",
+      "name": "杂物",
+      "order": 12,
       "sites": []
     }
   ],
