@@ -297,6 +297,13 @@ export const mockData = {
           "url": "https://nicen.cn/",
           "description": "个人博客，编程",
           "icon": "https://www.faviconextractor.com/favicon/nicen.cn"
+        },
+        {
+          "id": "site-1767209201844",
+          "name": "nstbrowser",
+          "url": "https://docs.nstbrowser.io/zh/guide/getting-started/introduction.html",
+          "description": "指纹浏览器使用文档",
+          "icon": "https://www.faviconextractor.com/favicon/docs.nstbrowser.io"
         }
       ]
     },
@@ -405,6 +412,13 @@ export const mockData = {
           "url": "https://www.bejson.com/",
           "description": "工具大全",
           "icon": "/sitelogo/www.bejson.com.ico"
+        },
+        {
+          "id": "site-1767209108642",
+          "name": "Gravatar",
+          "url": "https://gravatar.com",
+          "description": "同步不同平台账号头像",
+          "icon": "https://www.faviconextractor.com/favicon/gravatar.com"
         }
       ]
     },
@@ -634,6 +648,20 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1767209355032",
+          "name": "临时邮箱",
+          "url": "https://www.linshi-email.com/",
+          "description": "10分钟邮箱",
+          "icon": "https://www.faviconextractor.com/favicon/www.linshi-email.com"
+        },
+        {
+          "id": "site-1767209434806",
+          "name": "outlook",
+          "url": "https://outlook.live.com",
+          "description": "邮箱",
+          "icon": "https://www.faviconextractor.com/favicon/outlook.live.com"
         }
       ]
     }
