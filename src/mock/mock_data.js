@@ -233,6 +233,20 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "site-1767166377483",
+          "name": "freemdict",
+          "url": "https://forum.freemdict.com/",
+          "description": "一个词典论坛",
+          "icon": "https://www.faviconextractor.com/favicon/forum.freemdict.com"
+        },
+        {
+          "id": "site-1767166521680",
+          "name": "freeMdict Cloud",
+          "url": "https://cloud.freemdict.com/index.php/apps/files/files",
+          "description": "一个分享词典的论坛做的cloud云网盘服务\n支持免登录下载",
+          "icon": "https://cloud.freemdict.com/index.php/apps/theming/favicon/files?v=17d223"
         }
       ]
     },
@@ -428,14 +442,51 @@ export const mockData = {
       "icon": "🌐",
       "name": "网络环境",
       "order": 11,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1767165622367",
+          "name": "宝可梦",
+          "url": "https://web1.go52pokemon.com",
+          "description": "千夜佬的每月兑换码，每月60G，未用完不结转\n\n作者：\nhttps://linux.do/u/jkun/summary",
+          "icon": "https://www.faviconextractor.com/favicon/web1.go52pokemon.com"
+        },
+        {
+          "id": "site-1767165775172",
+          "name": "IPpure",
+          "url": "https://ippure.com/",
+          "description": "ip纯净度检测",
+          "icon": "https://www.faviconextractor.com/favicon/ippure.com"
+        },
+        {
+          "id": "site-1767166096086",
+          "name": "aggretator",
+          "url": "https://github.com/wzdnzd/aggregator/issues/91",
+          "description": "一个不知道还能持续多久的订阅永久页\n\n作者：\nhttps://linux.do/u/helloworld/summary",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1767167582255",
+          "name": "4k影视",
+          "url": "https://psub.zq1sweet1.workers.dev/",
+          "description": "订阅转换",
+          "icon": "https://mao-nav-2e8.pages.dev/assets/favicon-CQPVhNOB.ico"
+        }
+      ]
     },
     {
       "id": "category-1767164904625",
       "icon": "📁",
       "name": "杂物",
       "order": 12,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1767166767787",
+          "name": "virustotal",
+          "url": "https://www.virustotal.com/gui/home/upload",
+          "description": "检查文件/网址是否有木马、病毒的网站",
+          "icon": "https://www.virustotal.com/gui/images/favicon.svg"
+        }
+      ]
     }
   ],
   "title": "zqsweet导航"
