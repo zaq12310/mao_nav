@@ -313,6 +313,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/nicen.cn"
         },
         {
+          "id": "site-1767211924911",
+          "name": "apkpure",
+          "url": "https://apkpure.com/cn/search?q=Google&t=",
+          "description": "无需登录，直接下载各版本apk",
+          "icon": "https://www.faviconextractor.com/favicon/apkpure.com"
+        },
+        {
           "id": "site-1767209201844",
           "name": "nstbrowser",
           "url": "https://docs.nstbrowser.io/zh/guide/getting-started/introduction.html",
