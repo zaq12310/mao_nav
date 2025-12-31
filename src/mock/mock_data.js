@@ -268,6 +268,13 @@ export const mockData = {
           "url": "https://m.cmx.im/explore",
           "description": "喵、汪、各种动物、社交、科技、编程及生活",
           "icon": "https://www.faviconextractor.com/favicon/m.cmx.im"
+        },
+        {
+          "id": "site-1767208172371",
+          "name": "veryfb",
+          "url": "https://veryfb.com/",
+          "description": "海外平台广告论坛",
+          "icon": "https://www.faviconextractor.com/favicon/veryfb.com"
         }
       ]
     },
