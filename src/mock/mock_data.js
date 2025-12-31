@@ -413,11 +413,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.manwaku.cc"
         },
         {
-          "id": "site-1767207609379",
-          "name": "cxc",
-          "url": "https://cxc.today/zh",
-          "description": "漫画、小说，插图",
-          "icon": "https://www.faviconextractor.com/favicon/cxc.today"
+          "id": "site-1767211799834",
+          "name": "AO3",
+          "url": "https://archiveofourown.org/",
+          "description": "同人/原创创作",
+          "icon": "https://www.faviconextractor.com/favicon/archiveofourown.org"
         },
         {
           "id": "site-1767211373305",
@@ -427,18 +427,18 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.52shuku.net"
         },
         {
-          "id": "site-1767211799834",
-          "name": "AO3",
-          "url": "https://archiveofourown.org/",
-          "description": "同人/原创创作",
-          "icon": "https://www.faviconextractor.com/favicon/archiveofourown.org"
-        },
-        {
           "id": "site-1767212321992",
           "name": "G社漫画",
           "url": "https://m.g-mh.org",
           "description": "韩漫，国漫，加载较慢",
           "icon": "https://www.faviconextractor.com/favicon/m.g-mh.org"
+        },
+        {
+          "id": "site-1767207609379",
+          "name": "cxc",
+          "url": "https://cxc.today/zh",
+          "description": "漫画、小说，插图",
+          "icon": "https://www.faviconextractor.com/favicon/cxc.today"
         }
       ]
     },
