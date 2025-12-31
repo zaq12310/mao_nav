@@ -382,6 +382,13 @@ export const mockData = {
           "url": "https://m.yfsp.tv/",
           "description": "较流畅，外网",
           "icon": "https://www.faviconextractor.com/favicon/m.yfsp.tv"
+        },
+        {
+          "id": "site-1767211552852",
+          "name": "4k影视",
+          "url": "https://www.4kvm.net",
+          "description": "美剧（shameless）",
+          "icon": "https://www.faviconextractor.com/favicon/www.4kvm.net"
         }
       ]
     },
