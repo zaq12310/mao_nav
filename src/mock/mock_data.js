@@ -668,6 +668,13 @@ export const mockData = {
           "url": "https://ipcheck.ing/#/",
           "description": "ip检查",
           "icon": "https://www.faviconextractor.com/favicon/ipcheck.ing"
+        },
+        {
+          "id": "site-1767211635603",
+          "name": "socketpro",
+          "url": "https://www.socketproapp.info",
+          "description": "慢，支持服务好",
+          "icon": "https://www.faviconextractor.com/favicon/www.socketproapp.info"
         }
       ]
     },
