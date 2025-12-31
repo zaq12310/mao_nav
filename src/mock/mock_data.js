@@ -247,6 +247,27 @@ export const mockData = {
           "url": "https://cloud.freemdict.com/index.php/apps/files/files",
           "description": "一个分享词典的论坛做的cloud云网盘服务\n支持免登录下载",
           "icon": "https://cloud.freemdict.com/index.php/apps/theming/favicon/files?v=17d223"
+        },
+        {
+          "id": "site-1767206115039",
+          "name": "NodeLoc",
+          "url": "https://www.nodeloc.com/",
+          "description": "NL论坛",
+          "icon": "https://www.faviconextractor.com/favicon/www.nodeloc.com"
+        },
+        {
+          "id": "site-1767206710531",
+          "name": "一亩三分地",
+          "url": "https://www.1point3acres.com/bbs/",
+          "description": "海外相关论坛，暂无账号",
+          "icon": "https://www.faviconextractor.com/favicon/www.1point3acres.com"
+        },
+        {
+          "id": "site-1767207126581",
+          "name": "长毛象中文站",
+          "url": "https://m.cmx.im/explore",
+          "description": "喵、汪、各种动物、社交、科技、编程及生活",
+          "icon": "https://www.faviconextractor.com/favicon/m.cmx.im"
         }
       ]
     },
@@ -283,6 +304,13 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "/sitelogo/www.coursera.org.ico"
+        },
+        {
+          "id": "site-1767207211559",
+          "name": "友人a的笔记",
+          "url": "https://nicen.cn/",
+          "description": "个人博客，编程",
+          "icon": "https://www.faviconextractor.com/favicon/nicen.cn"
         }
       ]
     },
@@ -319,6 +347,13 @@ export const mockData = {
           "url": "https://www.zhihu.com",
           "description": "知识问答社区",
           "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='black'%3E%3Cpath d='M8 0C3.58 0 0 3.58 0 8a8 8 0 005.47 7.59c.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.11 0 0 .67-.21 2.2.82A7.65 7.65 0 018 4.58c.68.003 1.36.092 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.91.08 2.11.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z'/%3E%3C/svg%3E"
+        },
+        {
+          "id": "site-1767206938960",
+          "name": "libreTV",
+          "url": "https://tv.123408.xyz/",
+          "description": "密码：tv123408",
+          "icon": "https://www.faviconextractor.com/favicon/tv.123408.xyz"
         }
       ]
     },
@@ -327,7 +362,15 @@ export const mockData = {
       "icon": "📱",
       "name": "小说漫画",
       "order": 7,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1767207609379",
+          "name": "cxc",
+          "url": "https://cxc.today/zh",
+          "description": "漫画、小说，插图",
+          "icon": "https://www.faviconextractor.com/favicon/cxc.today"
+        }
+      ]
     },
     {
       "id": "tools",
@@ -434,6 +477,13 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
+        },
+        {
+          "id": "site-1767206502152",
+          "name": "Miro",
+          "url": "https://miro.com",
+          "description": "流程图/项目/板书共建平台",
+          "icon": "https://www.faviconextractor.com/favicon/miro.com"
         }
       ]
     },
@@ -548,6 +598,13 @@ export const mockData = {
           "url": "https://chanel.weyolo.com/",
           "description": "注册排队中\n\n作者：\nhttps://linux.do/u/hubentuan/summary",
           "icon": "https://www.faviconextractor.com/favicon/chanel.weyolo.com"
+        },
+        {
+          "id": "site-1767206028374",
+          "name": "ipcheck",
+          "url": "https://ipcheck.ing/#/",
+          "description": "ip检查",
+          "icon": "https://www.faviconextractor.com/favicon/ipcheck.ing"
         }
       ]
     },
@@ -563,6 +620,13 @@ export const mockData = {
           "url": "https://www.virustotal.com/gui/home/upload",
           "description": "检查文件/网址是否有木马、病毒的网站",
           "icon": "https://www.virustotal.com/gui/images/favicon.svg"
+        },
+        {
+          "id": "site-1767206836045",
+          "name": "rutracker",
+          "url": "https://rutracker.net",
+          "description": "俄罗斯最大盗版平台",
+          "icon": "https://www.faviconextractor.com/favicon/rutracker.net"
         }
       ]
     }
