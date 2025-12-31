@@ -288,8 +288,8 @@ export const mockData = {
     },
     {
       "id": "entertainment",
-      "name": "娱乐休闲",
-      "icon": "🎮",
+      "name": "影音娱乐",
+      "icon": "💻",
       "order": 6,
       "sites": [
         {
@@ -439,7 +439,7 @@ export const mockData = {
     },
     {
       "id": "category-1767168016958",
-      "icon": "👥",
+      "icon": "📊",
       "name": "公益站",
       "order": 11,
       "sites": [
