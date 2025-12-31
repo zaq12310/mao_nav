@@ -429,6 +429,13 @@ export const mockData = {
       "name": "杂物",
       "order": 11,
       "sites": []
+    },
+    {
+      "id": "category-1767165203298",
+      "icon": "🌐",
+      "name": "网络环境",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "zqsweet导航"
