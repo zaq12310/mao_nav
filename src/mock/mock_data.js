@@ -261,6 +261,13 @@ export const mockData = {
           "url": "https://m.cmx.im/explore",
           "description": "喵、汪、各种动物、社交、科技、编程及生活",
           "icon": "https://www.faviconextractor.com/favicon/m.cmx.im"
+        },
+        {
+          "id": "site-1767211166585",
+          "name": "v2ex",
+          "url": "https://v2ex.com/",
+          "description": "编程论坛",
+          "icon": "https://www.faviconextractor.com/favicon/v2ex.com"
         }
       ]
     },
