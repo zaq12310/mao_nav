@@ -406,6 +406,13 @@ export const mockData = {
       "order": 7,
       "sites": [
         {
+          "id": "site-1767364914120",
+          "name": "巴卡漫画",
+          "url": "https://bakamh.app/",
+          "description": "高清，无广告永久站",
+          "icon": "https://www.faviconextractor.com/favicon/bakamh.app"
+        },
+        {
           "id": "site-1767211086185",
           "name": "🐸🐸🐸",
           "url": "https://www.manwaku.cc/",
