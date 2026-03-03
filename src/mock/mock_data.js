@@ -658,8 +658,8 @@ export const mockData = {
         {
           "id": "site-1767165622367",
           "name": "宝可梦",
-          "url": "https://web1.go52pokemon.com",
-          "description": "每月60G流量未用完续订不结转\n2026.01兑换码：宝可梦yyds\n作者：\nhttps://linux.do/u/jkun/summary",
+          "url": "https://love.p6m6.com/",
+          "description": "每月60G流量未用完续订不结转\n2026.03兑换码：耿鬼\n作者：\nhttps://linux.do/u/jkun/summary",
           "icon": "https://www.faviconextractor.com/favicon/web1.go52pokemon.com"
         },
         {
@@ -684,18 +684,18 @@ export const mockData = {
           "icon": "https://mao-nav-2e8.pages.dev/assets/favicon-CQPVhNOB.ico"
         },
         {
-          "id": "site-1767204135826",
-          "name": "风萧萧",
-          "url": "https://chanel.weyolo.com/",
-          "description": "注册排队中\n\n作者：\nhttps://linux.do/u/hubentuan/summary",
-          "icon": "https://www.faviconextractor.com/favicon/chanel.weyolo.com"
-        },
-        {
           "id": "site-1767206028374",
           "name": "ipcheck",
           "url": "https://ipcheck.ing/#/",
           "description": "ip检查",
           "icon": "https://www.faviconextractor.com/favicon/ipcheck.ing"
+        },
+        {
+          "id": "site-1767204135826",
+          "name": "风萧萧",
+          "url": "https://chanel.weyolo.com/",
+          "description": "Linuxdo账号密码登录\n\n作者：\nhttps://linux.do/u/hubentuan/summary",
+          "icon": "https://www.faviconextractor.com/favicon/chanel.weyolo.com"
         },
         {
           "id": "site-1767211635603",
