@@ -663,6 +663,13 @@ export const mockData = {
           "icon": "https://telecom.moe/logo.png"
         },
         {
+          "id": "mxlcn",
+          "name": "Mxisky佬",
+          "url": "https://linux.do/t/topic/197070",
+          "description": "仅限核心Clash.Meta\n作者：https://linux.do/u/mxlcn",
+          "icon": "https://cdn.ldstatic.com/user_avatar/linux.do/mxlcn/288/166659_2.png"
+        },
+        {
           "id": "site-1767165622367",
           "name": "宝可梦",
           "url": "https://love.p6m6.com/",
@@ -701,7 +708,7 @@ export const mockData = {
           "id": "site-1767204135826",
           "name": "风萧萧",
           "url": "https://chanel.weyolo.com/",
-          "description": "Linuxdo账号密码登录\n\n作者：\nhttps://linux.do/u/hubentuan/summary",
+          "description": "Linuxdo账号密码登录\n作者：https://linux.do/u/hubentuan/summary",
           "icon": "https://www.faviconextractor.com/favicon/chanel.weyolo.com"
         },
         {
