@@ -656,6 +656,13 @@ export const mockData = {
       "order": 12,
       "sites": [
         {
+          "id": "site-1778262151511",
+          "name": "secone",
+          "url": "https://secone.telecom.moe",
+          "description": "100LDC 300G",
+          "icon": "https://www.faviconextractor.com/favicon/secone.telecom.moe"
+        },
+        {
           "id": "site-1767165622367",
           "name": "宝可梦",
           "url": "https://love.p6m6.com/",
