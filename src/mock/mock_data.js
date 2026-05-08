@@ -659,14 +659,14 @@ export const mockData = {
           "id": "site-1778262151511",
           "name": "secone",
           "url": "https://secone.telecom.moe",
-          "description": "100LDC 300G",
+          "description": "100LDC,300G\n作者：\nhttps://linux.do/u/moecaa/summary",
           "icon": "https://www.faviconextractor.com/favicon/secone.telecom.moe"
         },
         {
           "id": "site-1767165622367",
           "name": "宝可梦",
           "url": "https://love.p6m6.com/",
-          "description": "每月60G流量未用完续订不结转\n2026.03兑换码：耿鬼\n作者：\nhttps://linux.do/u/jkun/summary",
+          "description": "每月60G流量未用完续订不结转\n兑换码自取\n作者：\nhttps://linux.do/u/jkun/summary",
           "icon": "https://www.faviconextractor.com/favicon/web1.go52pokemon.com"
         },
         {
